@@ -1,0 +1,2 @@
+Hello this is writing to file 'rohit.txt'Hello this is writing to file 'rohit.txt'Hello this is writing to file 'rohit.txt' 
+Hello this is writing to file 'rohit.txt' 
